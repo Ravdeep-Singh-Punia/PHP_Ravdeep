@@ -1,4 +1,4 @@
-    <?php
+  <?php
 
     if ($_SERVER['REQUEST_METHOD']=='POST' && isset($_POST['numero'])) {
         $numero = $_POST['numero'];
